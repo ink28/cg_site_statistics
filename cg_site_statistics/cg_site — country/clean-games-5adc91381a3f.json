@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clean-games",
+  "private_key_id": "5adc91381a3f20970f74574e1697ac398a2d1a84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCJc7W8jMylpjYV\nWbCi9wVWFU9MKn51WxdLIvZRghgqfqMvcLICRp2IvzW3qHKL1fQTy1jkc4u/6v9n\nFagGybxLdNGx8NPcaNTthQxTyBYuXIjlrj37OsxspR6w71EB0RCj9WijhBGha/oJ\nstuEmiX7yOjHrKc0kA8CN160HMNGQI90GXLoqY+Tg6XpPG8EvcwkhKIwhE1u5vvi\n/dd94K7zxZFxode0Kj+z0j/SifPsFVXBqHAS5OrmztXe5URTzTDTFd62TAQdJkqR\nZDTHWbDxkORDBDGNWHSMVpp0P4gC1WkJ6ilpzBv0fJ4zovCq7qQCQqPERJYHQBTu\nh3sCLKGvAgMBAAECggEAGjE/AfGQs8YzCyl+s+c/kJJZ/IkidOmJTEuaxZh1U2+z\nWABxI2bicSMCsP876LK6IqV+yHXOPSGiTrn9PWHm7DgUF4TtUlR1stdGLJb1xxri\nCWaFMCEZwGBMs2m/NYnp0lya9oHdvDVvvbZkB2Y6c7rqxNX9PNJw0brMZKUQfwvZ\n6MYaBLR7HmTvXJxQNC2+T9I9obZaegAmm1G3k9wDQEQAj36EesDxaHyY2O+4pJvY\nXPkuI1zkFWGMA0uNQGNv2mRxTkFQ9dmOVlSd6U/BMYJLQBKfgDydTPOUaURF/gtO\nkFs648TDsTyVVC576V23fgmHdiVexown/4RRuExURQKBgQC/WRrRLVXHZNehUd11\n4j6NZ/agY06TsF4q28pG6KdEQT5G4N56gxYgtVd1iKTuZtjgxeD3EfP9n9YTC69P\ntITvlN3lEp4Hav/o6YEuNnrqd1BETqiqtbrBfOsh3St8nWiTQfOq1YTz6MRs6jPz\ndjbrwpJjL6Su6MtohwBm0DnZRQKBgQC35MuihmD0wne1uJNXYOBMDzm8uK45Z2bE\nBbAosXBpt80/R+s5f2VlTnyRFf12/tCsrsD7hN8Fr5CBihcK1XzUWKqXKKc6cf+Y\nAseafLTIhaPLAT5gNwvMTaBEyE1yPiIIU/QsS/xOPtFIIzzeEjxmx/bmz/4l3h8Z\nm8hx5JrsYwKBgCR0j31my77vYX2koTLCZfR+6Cfqg5/zrB0yPrl/vc5tN7Y9RWXF\n78NPiVglLncVNSCt0ox/6SJa/2glg8MFu4YBsLzh7SWwpwzy39+0FXryPGKnMc9E\nTE5sxEdxYcWeH7xehlP31hq6MCIoBLnPverw6P7optGEHKzPe64a4cqZAoGBAIBn\nOK1OSWr+UtpHfFJZ6aQSSY12IukgQ0iCdEOlykl3NtCF5kBqrSE00ZP5F9e8C3dY\nOpYlbBirQyrAgmBlO1mGY+9SSppruT2qSzea9hzB++GnB6flJ87LMSp19mXb7qWE\nAY3grNbx0+4b9MdXUmeuHr+B4gMM+whFl4u3RVnjAoGBAJpbY3F0FiDdFX/0hc07\nJaPFAk/xWDkyAMNM2wHlVMYN+ivww6skqa7wxTZNjd+zXv+XT3D/PyVv6MZDr76I\nwQxMrB1CZBcxLxTq9ntzXKmeysQ17r/ogUVMrNlHFRKzb/6RuMwcz4J9g2t9YTYx\nyr21JZ9eFIbL9dfYBwqvGK5g\n-----END PRIVATE KEY-----\n",
+  "client_email": "cleangames@clean-games.iam.gserviceaccount.com",
+  "client_id": "115912389060771268207",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cleangames%40clean-games.iam.gserviceaccount.com"
+}

@@ -1,0 +1,10 @@
+mysql:
+    host: 81.176.229.104
+    port: 4050
+    user: 'cleangames'
+    passwd: 'C7nAB8ApSZVbhLnu'
+    db: 'cleangames'
+google:
+    doc_id: '1xdItqCncRd9HEe-gcwF_NfJfacQBpp7HAk13TV8hCyQ'
+    sheet: 'country'
+    filename: './clean-games-5adc91381a3f.json'
